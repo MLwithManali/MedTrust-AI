@@ -1,3 +1,6 @@
 streamlit
-openai
+groq
 python-dotenv
+tavily-python
+yt-dlp
+imageio-ffmpeg
