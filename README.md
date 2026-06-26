@@ -1,6 +1,4 @@
 # 🩺 MedTrust AI
-# MedTrust AI
-
 **AI-Powered Health Misinformation and Influencer Credibility Analyzer**
 
 MedTrust AI is an AI-powered application that analyzes public health-related social media videos and helps users understand whether the health claims are reliable, misleading, exaggerated, or missing important medical context.
