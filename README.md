@@ -25,35 +25,35 @@ The app extracts health claims from public video content, compares them with tru
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/1-home-page.png)
 
 ### Analysis Processing
 
-![Analysis Processing](screenshots/analysis-processing.png)
+![Analysis Processing](screenshots/2-analysis-processing.png)
 
 ### Analysis Summary
 
-![Analysis Summary](screenshots/analysis-summary.png)
+![Analysis Summary](screenshots/3-analysis-summary.png)
 
 ### Detailed Report Overview
 
-![Detailed Report Overview](screenshots/detailed-report-overview.png)
+![Detailed Report Overview](screenshots/4-detailed-report-overview.png)
 
 ### Risk and Source Content
 
-![Risk and Source Content](screenshots/risk-context-source.png)
+![Risk and Source Content](screenshots/5-risk-context-source.png)
 
 ### Transcript Analysis
 
-![Transcript Analysis](screenshots/transcript-analysis.png)
+![Transcript Analysis](screenshots/6-transcript-analysis.png)
 
 ### Trusted Evidence Sources
 
-![Trusted Evidence Sources](screenshots/trusted-evidence.png)
+![Trusted Evidence Sources](screenshots/7-trusted-evidence.png)
 
 ### Feedback Dialog
 
-![Feedback Dialog](screenshots/feedback-dialog.png)
+![Feedback Dialog](screenshots/8-feedback-dialog.png)
 
 ---
 
