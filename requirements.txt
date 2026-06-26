@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+tavily-python
+yt-dlp
+imageio-ffmpeg
+pandas

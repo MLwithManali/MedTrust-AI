@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+analysis_result.json
+feedback.json
+evaluation_log.csv
