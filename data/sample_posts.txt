@@ -1,14 +1,50 @@
-Sample 1:
+Sample Health Content for Testing MedTrust AI
+
+Sample 1 — High Risk
+Claim:
 This herbal drink cures diabetes in 7 days without medicine.
 
-Sample 2:
+Expected behavior:
+Flag as high risk because it claims a cure for a chronic condition without medical evidence.
+
+Sample 2 — High Risk
+Claim:
 Avoid all vaccines because natural immunity is always better.
 
-Sample 3:
-Drinking warm water in the morning supports hydration and digestion, but it is not a cure for disease.
+Expected behavior:
+Flag as high risk because it discourages evidence-based public health guidance.
 
-Sample 4:
-This weight loss tea burns belly fat overnight with no diet or exercise.
+Sample 3 — Low Risk
+Claim:
+Drinking water in the morning supports hydration and digestion, but it is not a cure for disease.
 
-Sample 5:
-Always consult a qualified doctor before stopping prescribed medication.
+Expected behavior:
+Flag as low risk because the claim is general wellness advice and avoids exaggerated medical promises.
+
+Sample 4 — High Risk
+Claim:
+This weight loss tea burns belly fat overnight without diet or exercise.
+
+Expected behavior:
+Flag as high risk because it promotes unrealistic rapid weight-loss claims.
+
+Sample 5 — Safe Medical Guidance
+Claim:
+Always consult a qualified healthcare professional before stopping prescribed medication.
+
+Expected behavior:
+Flag as safe guidance because it encourages professional medical consultation.
+
+Sample 6 — Medium Risk
+Claim:
+Carbs are the main reason people develop diabetes and obesity.
+
+Expected behavior:
+Flag as medium risk because the claim oversimplifies a complex medical issue.
+
+Sample 7 — Medium Risk
+Claim:
+ADHD is not caused by laziness, but social media self-checklists cannot confirm a diagnosis.
+
+Expected behavior:
+Flag as medium risk or low risk depending on context, while reminding users that diagnosis requires professional evaluation.
