@@ -1,5 +1,4 @@
 # 🩺 MedTrust AI
-
 # MedTrust AI
 
 **AI-Powered Health Misinformation and Influencer Credibility Analyzer**
@@ -242,8 +241,3 @@ Future improvements may include:
 ## License
 
 This project is developed for educational purposes.
----
-
-## 📜 License
-
-This project is developed for educational purposes as part of the **Building AI Applications Challenge**.
